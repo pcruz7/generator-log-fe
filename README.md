@@ -1,5 +1,7 @@
 > [Yeoman](http://yeoman.io) generator
 
+# CURRENTLY MOVED TO [log-oscon](https://github.com/log-oscon/generator-log-marionette)
+
 ## Installation
 
 `npm install -g generator-log-fe` - not npm available...yet :)
